@@ -6,7 +6,7 @@ Go package to generate a (not-so\*) pseudo-random cycle.
 Example
 -------
 
-```
+```go
 package main
 
 import (
